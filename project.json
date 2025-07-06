@@ -1,0 +1,14 @@
+{
+  "name": "WeatherGuard",
+  "tagline": "Decentralized Weather insurance protocol utilizing WeatherXM API and chainlink",
+  "description": "What it does, how it works, and the tech used.",
+  "team": [
+    {
+      "name": "Victor Ezealo",
+      "email": "vic.ezealor@gmail.com"
+    }
+  ],
+  "demo_url": "https://example.com/demo",
+  "video_url": "https://youtube.com/watch?v=your-demo-video",
+  "technologies": ["React", "Ethers.js", "Base", "Solidity"]
+}
