@@ -132,7 +132,7 @@ export function CreatePolicyDialog({ open, onOpenChange, onPolicyCreated }: Crea
           Number.parseInt(formData.duration),
           coverageAmountWei,
           deductibleWei,
-          // { value: premiumQuote },
+          { value: premiumQuote },
         )
         await tx.wait()
       } else {

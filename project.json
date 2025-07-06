@@ -8,7 +8,9 @@
       "email": "vic.ezealor@gmail.com"
     }
   ],
-  "demo_url": "https://example.com/demo",
+  "demo_url": "https://weather-shield-wine.vercel.app/",
   "video_url": "https://youtube.com/watch?v=your-demo-video",
   "technologies": ["React", "Ethers.js", "Base", "Solidity"]
 }
+
+
