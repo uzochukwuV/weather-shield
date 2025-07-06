@@ -145,7 +145,7 @@ export default function Dashboard() {
       setRecurringPayments(recurringData)
       console.log("Loaded")
     } catch (error) {
-      console.error("Error loading user data:", error?.message!)
+      console.error("Error loading user data:", error)
       
     } finally {
       setLoading(false)
