@@ -10,7 +10,7 @@ import { useWallet } from "@/hooks/use-wallet"
 import { ConnectWallet } from "@/components/connect-wallet"
 
 export default function LandingPage() {
-  const { isConnected, address } = useWallet()
+  const { isConnected, address, network } = useWallet()
   const [stats, setStats] = useState({
     totalPolicies: 1247,
     totalCoverage: "2.4M",
